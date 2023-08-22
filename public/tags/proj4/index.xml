@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proj4 on JSM Research Group</title>
+    <link>/tags/proj4/</link>
+    <description>Recent content in proj4 on JSM Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/proj4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Project 5</title>
+      <link>/blog/rich-content/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rich-content/</guid>
+      <description>project six details</description>
+    </item>
+    
+    <item>
+      <title>Research Project 4</title>
+      <link>/blog/placeholder-text/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/placeholder-text/</guid>
+      <description>project four description</description>
+    </item>
+    
+  </channel>
+</rss>

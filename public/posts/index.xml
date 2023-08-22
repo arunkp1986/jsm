@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JSM Research Group</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on JSM Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2023 16:26:58 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/startups/</link>
+      <pubDate>Tue, 22 Aug 2023 16:26:58 +0530</pubDate>
+      
+      <guid>/posts/startups/</guid>
+      <description>Updates on startups</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/news/</link>
+      <pubDate>Tue, 22 Aug 2023 16:24:58 +0530</pubDate>
+      
+      <guid>/posts/news/</guid>
+      <description>Latest news updates</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/research/</link>
+      <pubDate>Sat, 19 Aug 2023 11:43:16 +0530</pubDate>
+      
+      <guid>/posts/research/</guid>
+      <description>Research Areas Multiphase Heat Transfer Computational Fluid Dynamics Interface Tracking Direct Numerical Simulation Eulerian Multiphase Rod Bundle Heat Transfer DNB prediction Natural Convection Research Experience - Specifics Component Scale Boiling Heat Transfer Modelling, meshing and CFD analysis for industrial size components such as nuclear rod bundles Study of the DNB prediction restriction currently prevalent in wall boiling models Study on the structure and behaviour of the wall boiling model and its sensitivity to the various constituent bubble parameters (departure diameter, nucleation site density, departure frequency) CFD Studies on the physics of Onset of significant void (OSV) location in subcooled flow boiling Analysis of the effect of the non-drag bubble interfacial interaction terms (Lift, Virtual Mass Force, Turbulent Dispersion Force &amp; wall lubrication force) on the radial void distribution Interface Tracking-DNS based Micro-scale Boiling Heat Transfer DNS studies on sliding heat transfer and characterizing the model of heat transfer for quenching heat transfer Surface Energy based re-interpretation of the Micro-scale bubble-wall contact dynamics in a Phase Field framework Bridging the Component Scale Boiling and Micro-scale boiling: Using DNS code to study the bubble growth rates and other related physics and incorporating it into the wall boiling model and other related components Project Experience EPSRC Indo-UK collaboration, Imperial College London Involved in various projects between the Imperial College team and Bhabha Atomic research Centre (BARC) in the Indo-UK collaboration.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/publications/</link>
+      <pubDate>Sat, 12 Aug 2023 17:56:37 +0530</pubDate>
+      
+      <guid>/posts/publications/</guid>
+      <description>Publications 2017 2016 2015 2014 2012 2010 2017 J.S. Murallidharan, B.V.S.S.S. Prasad, B.S.V. Patnaik, A mechanistic model for embryo size prediction at boiling incipience: ‘work of formation’ based approach, Int. J. Heat Mass Transf. 110 (2017) 921-939. R. Thakrar, J.S. Murallidharan, S. P. Walker, CFD investigation of nucleate boiling in non-circular geometries at high pressure, Nuclear Engineering and Design. , 312 (2017) 410-421. 2016 J.S. Murallidharan, B.V.S.S.S. Prasad, B.S.V. Patnaik, G.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/people/</guid>
+      <description> Heat Transfer, Computational Fluid Dynamics, Experimental fluid dynamics and heat transfer, Flow boiling in microchannels, Reactor Safety Analysis, Nuclear Reactor Dynamics, Multi-phase Flow Measurements, Experimental techniques in interfacial flows, Nuclear Engineering, Direct Numerical Simulations, Multiphase Flow and Heat Transfer,
+Contact Information Office Address: Mechanical Engineering Department, Indian Institute of Technology Bombay, Mumbai, India Mobile: +91(22)2576-9360 Email: js.murallidharan@iitb.ac.in </description>
+    </item>
+    
+  </channel>
+</rss>
